@@ -31,3 +31,6 @@ while True:
 
     if choice == "3":
         break
+
+print(task)  # task is undefined here
+
